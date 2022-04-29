@@ -142,7 +142,7 @@ A API construída trata-se de um sistema de gerenciamento de vendas, onde será 
 ### To run:
 
 1. Clone the repository
-  * `git clone git@github.com:thiagopcdev/Books_CRUD-Express-TypeScript.git`
+  * `git clone git@github.com:thiagopcdev/Project-Store-Manager.git`
 2. Enter the repository folder you just cloned:
   * `cd SD-012-STORE-MANAGER`
 3. Install the dependencies:
